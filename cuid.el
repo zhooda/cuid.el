@@ -21,7 +21,7 @@
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: wp tools files convenience data
-;; URL: https://github.com/gongo/airplay-el
+;; URL: https://github.com/zhooda/cuid.el
 
 
 ;;; Commentary:
